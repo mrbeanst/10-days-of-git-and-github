@@ -479,7 +479,7 @@ To add multiple files using their file names using the command _git add_ followe
    git add filename1 filename2
 ```
 
-Sometimes, we may make a lot of changes, and adding files one by one is tiring and not product. Therefore, we can use a short and product way. The _git add_ command followed by a dot allows adding files and folders at once to the stage area. Remember, there is a space between the add and the dot.
+Sometimes, we may make a lot of changes, and adding files one by one is tiring and not productive. Therefore, we can use a short and product way. The _git add_ command followed by a dot allows adding files and folders at once to the stage area. Remember, there is a space between the add and the dot.
 
 To add all files and folders at once
 
